@@ -1,5 +1,4 @@
-/* NOTE: to view a current (and contextualized) version of
-this component, go to: 
+/* NOTE: to view a current (and contextualized) version of this component, go to: 
 https://github.com/bonsai-org/frontend/tree/main/src/components/about */
 
 import { useState, useEffect } from 'react';
