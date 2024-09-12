@@ -1,0 +1,2 @@
+This repository hosts my technical writing portfolio. Each folder in this repository contains a different writing sample. The README.md file in each folder serves as a cover 
+note to contextualize and preface the writing sample.
